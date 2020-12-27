@@ -17,7 +17,7 @@ def meal_choice(veg1, veg2, protein = "meat")
   meal
 end
 
-meal_choice("broccoli", "macaroni", "roast beef")
+meal_choice("broccoli", "macaroni")
 
 def meal_choice(veg1, veg2, protein = "meat")
   puts "What a nutritious meal!"
